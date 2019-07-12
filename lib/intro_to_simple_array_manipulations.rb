@@ -38,8 +38,8 @@ def using_flatten(instruments)
   instruments.flatten
 end
 
-def using_delete(instructors)
-  instructors.delete()
+def using_delete(instructors, no_offense_Steven)
+  instructors.delete(no_offense_Steven)
 end
 
 def using_delete_at(famous_robots)
