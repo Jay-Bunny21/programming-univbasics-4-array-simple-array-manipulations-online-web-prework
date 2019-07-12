@@ -1,4 +1,4 @@
-def using_push(colors_in_the_rainbow,next_color)
+famousdef using_push(colors_in_the_rainbow,next_color)
   colors_in_the_rainbow.push(next_color)
 end
 
@@ -39,5 +39,5 @@ def using_flatten(instruments)
 end
 
 def using_delete_at
-  
+  famous_robots.
 end
